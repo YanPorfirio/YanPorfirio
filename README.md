@@ -5,7 +5,7 @@ I am a Developer in transition to the tech industry, focused on turning logic in
 ### 🚀 What I'm up to:
 - 💻 Developing robust projects with Vanilla JavaScript to consolidate core fundamentals.
 - 🏗️ Building a dynamic Kanban board focused on productivity and state management.
-- 📚 Studying TypeScript and React’s component-based architecture.
+- 📚 Studying TypeScript and Angular’s component-based architecture.
 
 ### 🛠️ My Toolbox:
 - Languages: HTML5, CSS3, JavaScript (ES6+) and starting with TypeScript.
