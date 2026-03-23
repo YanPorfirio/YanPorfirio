@@ -8,7 +8,7 @@ I am a Developer in transition to the tech industry, focused on turning logic in
 - 📚 Studying TypeScript and React’s component-based architecture.
 
 ### 🛠️ My Toolbox:
-- Languages: HTML5, CSS3, JavaScript (ES6+) and starting with TypeScript.
+- Languages: HTML5, CSS3, JavaScript (ES6+) and starting with Node.js.
 - Concepts: Responsive Layouts, DOM Manipulation, and REST APIs.
 - Tools: Git, GitHub, and VS Code.
 
