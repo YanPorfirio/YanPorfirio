@@ -1,6 +1,6 @@
 # Hi, I'm Yan! 👋
 
-I am a Developer in transition to the tech industry, focused on turning logic into visual and functional solutions. My main goal is to master the **React** ecosystem and mobile development with **React Native**.
+I am a Front-End Developer, focused on turning logic into visual and functional solutions. My main goal is to master the **React** ecosystem and mobile development with **React Native**.
 
 ### 🚀 What I'm up to:
 - 💻 Developing robust projects with Vanilla JavaScript and Node.js to consolidate core fundamentals.
@@ -13,4 +13,4 @@ I am a Developer in transition to the tech industry, focused on turning logic in
 - Tools: Git, GitHub, Codex CLI and Cursor AI.
 
 ### 🎯 Goal:
-To become a Front-end Developer capable of creating interfaces that enhance team efficiency and user experience.
+To become a Full-Stack Developer capable of creating interfaces that enhance team efficiency and user experience.
